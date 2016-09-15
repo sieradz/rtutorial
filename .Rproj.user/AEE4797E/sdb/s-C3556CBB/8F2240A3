@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "1+1 * 2\n",
+    "created" : 1473247046285.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "360689205",
+    "id" : "8F2240A3",
+    "lastKnownWriteTime" : 1473951410,
+    "last_content_update" : 1473951410483,
+    "path" : "C:/work/dev/R/Projects/tutorial/first.r",
+    "project_path" : "first.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
